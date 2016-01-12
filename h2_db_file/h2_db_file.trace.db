@@ -1,0 +1,3 @@
+12-11 23:41:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SOUND_EVENT" not found; SQL statement:
+select * from sound_event [42102-176]
